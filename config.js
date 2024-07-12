@@ -41,7 +41,7 @@ global.scan = "https://zax-md-beae6ed77007.herokuapp.com/";
 
 global.SESSION_ID =
   process.env.SESSION_ID ||
-  "";
+  "Raganork~602a9c4477c303bccd0896e588891a9a:4f4f7977372b48346166633d";
 
 module.exports = {
   menu: process.env.MENU || "menu1",
